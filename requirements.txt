@@ -1,7 +1,9 @@
-streamlit
+sstreamlit
 pandas
+numpy
 matplotlib
 seaborn
+plotly
 emoji
 wordcloud
 urlextract
